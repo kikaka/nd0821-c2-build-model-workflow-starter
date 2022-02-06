@@ -1,5 +1,6 @@
 # Build an ML Pipeline for Short-Term Rental Prices in NYC
 Link to my public project on W&B: https://wandb.ai/auerback/nyc_airbnb_public
+
 Link to the Github repository: https://github.com/kikaka/nd0821-c2-build-model-workflow-starter
 
 
